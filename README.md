@@ -1,2 +1,2 @@
 # data_wrangling_exercise
-This exercise is an example for using SQL queries for data analysis
+This exercise is an example for data wrangling with JSON as input type
